@@ -1,8 +1,12 @@
 # Project_4
 
-This project is a demonstration of.. total panic.. and confusion matrices.. in a random forest.. full of learning machines.  
+## Backgrond
+
+As an analyst in the White House, I have been tasked with helping the administration understand the factors predicting agency turnover. The annual employee data from the Departments of Commerce and Labor have been downloaded for me to work with. Per management request, I have developed a work plan for the next 2 weeks conducting the analysis in preparation for a brief presentation. I will use scikit learn python libraries to create maching learning models to predict results.
 
 ### Resources:
+
+Class activites and staff instruction
 
 https://vitalflux.com/correlation-heatmap-with-seaborn-pandas/
 
