@@ -1,6 +1,6 @@
 # Project_4
 
-This project is a demonstration of ..
+This project is a demonstration of.. total panic.. and confusion matrices.. in a random forest.. full of learning machines.  
 
 ### Resources:
 
